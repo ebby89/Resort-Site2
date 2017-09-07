@@ -4,6 +4,9 @@ A cool site for an epic resort.
 ## Developed By ##
 Kim Bordon & Joseph Tomlinson
 
+## Bootstrap Implementation By ##
+Kyle Ebersole & Joseph Tomlinson
+
 ## Technologies ##
 Developed using Atom and git.
 
